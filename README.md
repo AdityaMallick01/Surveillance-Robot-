@@ -103,5 +103,4 @@ The current project is a robust foundation for a surveillance system. Future dev
 * **Power Optimization:** Enhance the power management system with higher capacity batteries or solar charging for prolonged operation.
 * **Cloud Services:** Add support for **cloud storage** and data analytics for surveillance footage.
 
-**Developed by:** Aditya Mallick, Kshitij Prasad, & Sarvesh Prasad (B. Tech. CSE(IOT) 4th Semester)
-**Institution:** Siksha 'O' Anusandhan (Deemed to be University)
+**Developed by:** Aditya Mallick, Kshitij Prasad, & Sarvesh Prasad 
