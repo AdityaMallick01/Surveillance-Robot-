@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-[cite_start]This project details the design and implementation of a **Web-Controlled Surveillance Robot** powered by a **Raspberry Pi** for **real-time remote monitoring**[cite: 17]. [cite_start]The system allows a user to remotely control the robot's movement (forward, backward, left, right) and receive a live video feed via a standard web browser on any internet-enabled device[cite: 18, 89].
+This project details the design and implementation of a **Web-Controlled Surveillance Robot** powered by a **Raspberry Pi** for **real-time remote monitoring**[cite: 17]. [cite_start]The system allows a user to remotely control the robot's movement (forward, backward, left, right) and receive a live video feed via a standard web browser on any internet-enabled device[cite: 18, 89].
 
 [cite_start]The robot functions as an **IoT-enabled device** [cite: 206][cite_start], combining a mobile platform, a camera module, and a lightweight web server (Flask) hosted on the Raspberry Pi[cite: 20]. [cite_start]This makes it a cost-effective, flexible solution suitable for applications in home security, industrial surveillance, and monitoring hazardous environments[cite: 23, 92].
 
@@ -25,7 +25,7 @@
 | **Core Controller** | [cite_start]Raspberry Pi 4 Model B / Raspberry Pi Zero 2 W [cite: 338, 391, 645] | [cite_start]Central Processing Unit (CPU) for control, communication, and video processing [cite: 90] |
 | **Programming Language** | Python | [cite_start]Main programming language used for motor control and web server logic [cite: 111, 398] |
 | **Web Framework** | **Flask** | [cite_start]Lightweight web framework to host the control interface and handle streaming [cite: 111, 625] |
-| **Video Streaming** | `picamera2`, `cv2` (OpenCV) | [cite_start]Captures video frames and encodes them as JPEG for web streaming [cite: 630-631] |
+| **Video Streaming** | `picamera2`, `cv2` (OpenCV) | [cite_start]Captures video frames and encodes them as JPEG for web streaming [cite: 630, 631] |
 | **Motor Control** | `RPi.GPIO` | [cite_start]Controls the GPIO pins on the Raspberry Pi to manipulate the motors [cite: 632] |
 | **Motor Driver** | [cite_start]L298N Dual H-Bridge [cite: 358] | [cite_start]Interfaces with the Raspberry Pi to control the DC motors [cite: 360] |
 | **Communication** | Wi-Fi (built-in) | [cite_start]Provides wireless connectivity for remote control and video streaming [cite: 369] |
