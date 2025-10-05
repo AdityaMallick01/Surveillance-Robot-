@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project details the design and implementation of a **Web-Controlled Surveillance Robot** powered by a **Raspberry Pi** for **real-time remote monitoring**. The system allows a user to remotely control the robot's movement (forward, backward, left, right) and receive a live video feed via a standard web browser on any internet-enabled device.
+[cite_start]This project details the design and implementation of a **Web-Controlled Surveillance Robot** powered by a **Raspberry Pi** for **real-time remote monitoring**[cite: 17]. [cite_start]The system allows a user to remotely control the robot's movement (forward, backward, left, right) and receive a live video feed via a standard web browser on any internet-enabled device[cite: 18, 89].
 
 [cite_start]The robot functions as an **IoT-enabled device** [cite: 206][cite_start], combining a mobile platform, a camera module, and a lightweight web server (Flask) hosted on the Raspberry Pi[cite: 20]. [cite_start]This makes it a cost-effective, flexible solution suitable for applications in home security, industrial surveillance, and monitoring hazardous environments[cite: 23, 92].
 
