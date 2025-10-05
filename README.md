@@ -84,7 +84,7 @@ The components below were used for this project:
 2.  Execute the script using:
 
     ```bash
-    python main_code_file_name.py
+    python main.py
     ```
 
 3.  The script will start the **Flask web server** on port `8080` and print the robot's local IP address (e.g., `192.168.x.x:8080`).
